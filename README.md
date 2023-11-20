@@ -36,6 +36,8 @@ Banking Professional: 💼 As a former Associate Customer Success Representative
 Tech-Savvy: 💻 Proficient in a variety of technologies, including Google API, Tableau, and a range of Python libraries (Pandas, Matplotlib, Seaborn).
 <!--Intro end-->
 
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
