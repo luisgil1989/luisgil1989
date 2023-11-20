@@ -15,6 +15,8 @@
        alt="snake" /></a>
 </div>
 
+
+
 <!--Intro start-->
 
 🚀 Data Analyst and Geoscientist | Banking and Technology Enthusiast
@@ -24,6 +26,8 @@ Welcome to my GitHub! I'm a versatile professional with a background in geoscien
 🌐 Key Highlights:
 
 Geoscience Expertise: 🌍 From subsurface lithology analysis to seismic data interpretation, I bring a solid foundation in geoscience principles.
+
 Banking Professional: 💼 As a former Associate Customer Success Representative at Wells Fargo, I've tackled complex inquiries and provided top-notch customer experiences in a fast-paced environment.
+
 Tech-Savvy: 💻 Proficient in a variety of technologies, including Google API, Tableau, and a range of Python libraries (Pandas, Matplotlib, Seaborn).
 <!--Intro end-->
