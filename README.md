@@ -18,7 +18,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 600px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
 <br><br>
 <!--Intro start-->
@@ -26,6 +26,8 @@
 🚀 Data Analyst and Geoscientist | Banking and Technology Enthusiast
 
 Welcome to my GitHub! I'm a versatile professional with a background in geoscience, banking, and a passion for technology. As a Data Analyst, I leverage Python, R, and SQL to extract insights from diverse datasets. My experience includes creating dynamic visualizations, implementing machine learning models, and integrating APIs for comprehensive data analysis.
+
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 🌐 Key Highlights:
 
@@ -36,7 +38,7 @@ Banking Professional: 💼 As a former Associate Customer Success Representative
 Tech-Savvy: 💻 Proficient in a variety of technologies, including Google API, Tableau, and a range of Python libraries (Pandas, Matplotlib, Seaborn).
 <!--Intro end-->
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
