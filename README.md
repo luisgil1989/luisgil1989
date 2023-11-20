@@ -31,3 +31,16 @@ Banking Professional: 💼 As a former Associate Customer Success Representative
 
 Tech-Savvy: 💻 Proficient in a variety of technologies, including Google API, Tableau, and a range of Python libraries (Pandas, Matplotlib, Seaborn).
 <!--Intro end-->
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=matlab,py,r,sqlite,tensorflow,html" />
+  </a>
+</p>
