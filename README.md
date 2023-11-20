@@ -51,7 +51,7 @@ Tech-Savvy: 💻 Proficient in a variety of technologies, including Google API, 
 	<a href="https://github.com/luisgil1989/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## <picture> <img src = "https://github.com/luisgil1989/luisgil1989/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
