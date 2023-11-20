@@ -27,13 +27,14 @@
 
 Welcome to my GitHub! I'm a versatile professional with a background in geoscience, banking, and a passion for technology. As a Data Analyst, I leverage Python, R, and SQL to extract insights from diverse datasets. My experience includes creating dynamic visualizations, implementing machine learning models, and integrating APIs for comprehensive data analysis.
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 🌐 Key Highlights:
 
 Geoscience Expertise: 🌍 From subsurface lithology analysis to seismic data interpretation, I bring a solid foundation in geoscience principles.
 
 Banking Professional: 💼 As a former Associate Customer Success Representative at Wells Fargo, I've tackled complex inquiries and provided top-notch customer experiences in a fast-paced environment.
+
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 Tech-Savvy: 💻 Proficient in a variety of technologies, including Google API, Tableau, and a range of Python libraries (Pandas, Matplotlib, Seaborn).
 <!--Intro end-->
